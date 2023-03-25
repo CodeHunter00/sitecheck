@@ -1,6 +1,6 @@
 # Python | Site Connectivity Checker
 
-<p align="center"><a href="https://github.com/CodeHunter00/sitecheck/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/sitecheck?display_name=tag&label=Release"></a>
+<p align="center"><a href="https://github.com/CodeHunter00/sitecheck/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/sitecheck"></a>
   <a href="https://github.com/CodeHunter00/sitecheck"><img src="https://img.shields.io/github/license/CodeHunter00/sitecheck?color=critical&label=License"></a>
 </p>
 
